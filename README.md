@@ -1,2 +1,2 @@
 # python-megacourse
-Build real-world apps in Python 3
+Build real-world apps 
